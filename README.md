@@ -7,6 +7,8 @@
  
 ![chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chani17&show_icons=true&theme=panda&include_all_commits=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chani17&layout=compact)](https://github.com/Chani17/github-readme-stats)
+
 <br><br>
 
 ## ⚒️ Tech Stack
