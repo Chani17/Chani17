@@ -4,12 +4,14 @@
 <br><br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chani17hit-counter&count_bg=%2300DFA2&title_bg=%230079FF&icon=&icon_color=%230079FF&title=HITS&edge_flat=false)           
- 
-![chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chani17&show_icons=true&theme=panda&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chani17&layout=compact)](https://github.com/Chani17/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chani17&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chani17&show_icons=true&theme=panda&include_all_commits=true"/>
 
-<br><br>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
 
 ## ⚒️ Tech Stack
 <div style="display:flex; flex-direction:row;">
